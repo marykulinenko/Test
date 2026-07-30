@@ -24,6 +24,7 @@ docker-compose up -d
 curl http://localhost
 ```
 Ожидаемый ответ: Hello from Effective Mobile!
+
 2. Через браузер: 
 Перейти по адресу http://localhost. 
 Ожидаемый ответ: Hello from Effective Mobile!
